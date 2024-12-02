@@ -4,9 +4,9 @@ A template for using the LILYGO T-Display-S3 with the ESP-IDF and LVGL in Platfo
 Sample code that provides a starting point to get started with the LVGL and ESP32 library on ESP-IDF. I had found several examples but they either worked with a specific version or simply didn't work for me, so I made a base code to build on.
 
 ## Using
-PlatformIO@6.1.16 via VSCode
-ESP-IDF@5.3.1
-LVGL@9.2.2
+- PlatformIO@6.1.16 via VSCode
+- ESP-IDF@5.3.1
+- LVGL@9.2.2
 
 ## Considerations
 
